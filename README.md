@@ -35,5 +35,5 @@ Exploring Haskell and diving deeper into purely functional programming paradigms
 Ask me about my athletic background. It’s a big part of who I am.
 
 ## 🌐 Connect with Me  
-- Personal website: [ryankoch.vercell.app](https://ryankoch.vercell.app)  
+- Personal website: [ryankoch.vercel.app](https://ryankoch.vercel.app)  
 - Email: [ryan.koch.0213@gmail.com](mailto:ryan.koch.0213@gmail.com)
